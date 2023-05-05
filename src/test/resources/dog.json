@@ -1,0 +1,13 @@
+{
+  "name": "Buggy",
+  "full_name": "Buggy Strong Bear",
+  "age": 6,
+  "breed": "French Bulldog",
+  "activities": ["Walking", "Playing", "Eating", "Sleeping"],
+  "food": ["Dog food", "Cucumber", "Cheese", "Apple"],
+  "isFriendly": true,
+  "city": {
+    "current": "Voronezh",
+    "origin": "Lipetsk"
+  }
+}
