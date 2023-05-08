@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Dog {
     public String name;
-    public String full_name;
+    public String fullName;
     public Integer age;
     public String breed;
     public List<String> activities;

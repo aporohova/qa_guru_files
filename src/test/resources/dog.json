@@ -1,6 +1,6 @@
 {
   "name": "Buggy",
-  "full_name": "Buggy Strong Bear",
+  "fullName": "Buggy Strong Bear",
   "age": 6,
   "breed": "French Bulldog",
   "activities": ["Walking", "Playing", "Eating", "Sleeping"],

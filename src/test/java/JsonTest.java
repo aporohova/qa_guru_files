@@ -18,7 +18,7 @@ public class JsonTest {
         try (InputStream is = cl.getResourceAsStream("dog.json");
              InputStreamReader isr = new InputStreamReader(is)) {
             Dog dog = objectMapper.readValue(isr, Dog.class);
-            Assertions.assertEquals("Buggy Strong Bear", dog.full_name);
+            Assertions.assertEquals("Buggy Strong Bear", dog.fullName);
             Assertions.assertEquals("Voronezh", dog.city.current);
             Assertions.assertEquals("Eating", dog.activities.get(2));
 
